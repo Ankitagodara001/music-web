@@ -853,3 +853,11 @@ header .right_bx1 h3{
     border-radius: 5px 0px 0px 5px;
     font-size: 13px;
 }
+
+a{
+    color: #4c5262;
+     text-decoration: none;
+}
+a:hover{
+    color: #fff;
+}
